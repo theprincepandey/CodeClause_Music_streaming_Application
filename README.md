@@ -1,7 +1,5 @@
 # Spotify Clone Project
 
-![Spotify Clone](/path/to/spotify-clone-screenshot.png)
-
 Welcome to the Spotify Clone project! This project is a web-based clone of the popular music streaming platform Spotify, built using HTML, CSS, and JavaScript. It aims to replicate some of the core features and design elements of Spotify's user interface while providing a simple and functional music playback experience.
 
 ## Table of Contents
@@ -25,14 +23,6 @@ Welcome to the Spotify Clone project! This project is a web-based clone of the p
 - **Now Playing**: Display of the currently playing song, artist, and album cover.
 - **Audio Visualization**: Visual representation of audio waves synchronized with the playback.
 - **Dark Mode**: Optional dark mode for better user experience in low-light environments.
-
-## Screenshots
-
-![Home Page](/path/to/home-page-screenshot.png)
-*Home Page of the Spotify Clone*
-
-![Now Playing](/path/to/now-playing-screenshot.png)
-*Now Playing Screen with Audio Visualization*
 
 ## Installation
 
